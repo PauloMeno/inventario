@@ -1,0 +1,16 @@
+hola esto es una pruba..
+Me paro en la raiz
+
+-git init
+-git add *
+-git commint -m "Algun comentario"
+-git remote add origin https://....
+-git push -u origin master
+
+Para crear otra rama..
+
+-git checkout -b develop
+-git status
+-git push origin develop //subo a github la rama
+-git pull origin "..."  //actualizo
+ 
